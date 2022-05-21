@@ -1,0 +1,17 @@
+.pagination {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.pagination li {
+    margin: 10px 8px; 
+}
+
+.pagination .page-link {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+}
