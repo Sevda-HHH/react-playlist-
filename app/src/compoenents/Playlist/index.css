@@ -1,0 +1,32 @@
+.playlist {
+    padding: 18px;
+    border: 1px solid black;
+    height: 700px; 
+    width: 30%;
+}
+
+.playlist img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.playlist form {
+    display: flex;
+    justify-content: center;
+}
+
+.playlist button {
+    margin-top: 12px;
+}
+
+.playlist .content {
+    margin-top: 16px;
+    padding: 24px;
+    height: 500px;
+    max-height: 800px;
+    overflow-y: scroll;
+}
+
+.playlist h2 {
+    margin-bottom: 20px;
+}
