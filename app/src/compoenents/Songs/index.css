@@ -1,0 +1,28 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: start;
+
+}
+
+article img {
+    max-width: 200px;
+}
+
+article {
+    padding: 16px;
+    margin-top: 16px;
+    border: 1px solid grey;
+}
+
+.song-item__content {
+    margin-left: 24px;
+}
+
+.song-item__content button {
+    margin-top: 16px;
+}
+
+.song-item__content p {
+    margin-top: 8px;
+}
