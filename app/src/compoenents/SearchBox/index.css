@@ -1,0 +1,17 @@
+input, button {
+    padding: 12px 16px;
+}
+
+input {
+    width: 60%;
+}
+
+button {
+    width: 30%;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
