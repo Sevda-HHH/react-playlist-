@@ -1,0 +1,4 @@
+export const SONG_ACTIONS = {
+    ADD_SONG: 'ADD_SONG',
+    DELETE_SONG: 'DELETE_SONG'
+}
